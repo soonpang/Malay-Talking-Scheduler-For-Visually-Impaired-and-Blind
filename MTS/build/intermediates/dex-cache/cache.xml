@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kelvin\Documents\FYP_MTS\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="78ac8e98fe35f85924e5f3d84bb7bffea2ce0810">
+        <dex dex="C:\Users\Kelvin\Documents\FYP_MTS\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_e85e7365a21ab705f196e5e2b03e33e6efd75431\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Kelvin\Documents\FYP_MTS\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\Kelvin\Documents\FYP_MTS\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_fb8b86d288c35fb03abe1a2e975efad2f046e959\classes.dex" />
+    </item>
+
+</items>
